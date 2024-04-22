@@ -1,4 +1,4 @@
-# traffic-sign-recognition-and-detection
+# traffic-sign-detection
 
 Data from the German Traffic Sign Detection Benchmark (GTSDB). This archive contains the training set used during the IJCNN 2013 competition. 
 
